@@ -10,6 +10,6 @@ Tasks Performed
 6. Calculated total rent generated per book
 
 Learning Outcomes
-Improved understanding of relational database design
-Gained hands-on experience with joins and aggregation
-Learned how to analyze data using SQL queries
+1. Improved understanding of relational database design
+2. Gained hands-on experience with joins and aggregation
+3.Learned how to analyze data using SQL queries
